@@ -12,6 +12,14 @@ It works as follows:
 ![Screenshot](https://github.com/atextor/mvnautoimport/raw/master/1.png)
 ![Screenshot](https://github.com/atextor/mvnautoimport/raw/master/2.png)
 
+Installation
+------------
+
+Download https://github.com/downloads/atextor/mvnautoimport/de.atextor.mvnautoimport_1.0.0.201209141654.jar and place in your Eclipse plugins/ directory.
+
+Other Information
+-----------------
+
 Note: The default maximum libraries displayed in the selection list is 20. If you select class names that appear in many libraries, such as "Logger", you need to increase this number in the plugin settings. Change the "rows" parameter
 inside the Maven repository URL to something higher.
 
